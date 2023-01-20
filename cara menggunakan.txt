@@ -1,0 +1,11 @@
+Cara menjalankan aplikaisnya
+
+masukkan folder web admin "tokoonline" ke dalam xampp->htdoc
+
+kemudian buka melalui vscode, lalu ketik di terminal 'php artisan serve'
+
+untuk menjalankan aplikasi mobile.
+
+buka android versi dolphine disarankan.
+
+lalu ubah ip addres sesuai dengan internet kalian. 
